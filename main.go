@@ -1,19 +1,3 @@
-/*************************************************************************
- *
- * Gravwell - "Consume all the things!"
- *
- * ________________________________________________________________________
- *
- * Copyright 2017 - All Rights Reserved
- * Gravwell Inc <legal@gravwell.io>
- * ________________________________________________________________________
- *
- * NOTICE:  This code is part of the Gravwell project and may not be shared,
- * published, sold, or otherwise distributed in any from without the express
- * written consent of its owners.
- *
- **************************************************************************/
-
 package main
 
 import (
